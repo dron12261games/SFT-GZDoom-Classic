@@ -5,7 +5,7 @@ GZDoom Classic - correctly preconfigured build by DRON12261
 
 ### ⚠️WARNING!⚠️ It's only a build, not a fork. The original GZDoom repository can be found [here]([https://forum.zdoom.org/viewtopic.php?t=58535](https://github.com/ZDoom/gzdoom)).
 
-The build is based on GZDoom 4.11.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured hardware (Hardware) renderer.
+The build is based on GZDoom 4.11.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured Hardware renderer.
 
 Also the build is a portable version, ie not tied to any system folders, everything remains within the dirrectory itself GZDoom Classic, and that means it will not conflict with other builds.
 
