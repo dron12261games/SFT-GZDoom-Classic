@@ -21,7 +21,7 @@ The build is pre-configured for the following projects (the correct settings are
 - Action Doom 2
 - HACX
 
-### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-DronsDoomUtils/releases/download/v0.2/Drons.Doom.Utils.v0.2.zip)
+### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zipp)
 
 # Hotkeys
 The build includes several switch hotkeys to instantly re-configure the port for specific preferences, projects, and situations.
@@ -73,7 +73,7 @@ Additionally, the preconfigured automap coloring for Doom significantly increase
 
 The script for pistolstart was implemented by JP LeBreton. Page with original mod: https://jp.itch.io/doom-pistol-start
 
-### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-DronsDoomUtils/releases/download/v0.2/Drons.Doom.Utils.v0.2.zip)
+### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zip)
 
 # Screenshots:
 ![Screen1](./screens/1.png)
