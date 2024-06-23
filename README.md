@@ -26,28 +26,28 @@ The build is pre-configured for the following projects (the correct settings are
 # Hotkeys
 The build includes several switch hotkeys to instantly re-configure the port for specific preferences, projects, and situations.
 
-1) Demonstration mode: `Num/` - on, `Num*` - off
+1) Demonstration mode: `Num/` - on, `Num*` - off  
 Demonstration mode includes invulnerability, flight, invisibility to monsters, noclip, as well as remove the entire interface. 
 Very useful for making screenshots or recording videos.
 Attention! Due to some technical limitations, there may be a situation where you could double-click, for example, to enable demonstration mode, and you have all the effects applied, but the interface will still be displayed. In this case, click again to enable demonstration mode and everything will be back to normal. It works the same way in the reverse direction.
 
-2) Mouselook: `Num8` - on, `Num9` - off
+2) Mouselook: `Num8` - on, `Num9` - off  
 When on, gives vertical mouse view and disables vertical auto-aim.
 When off, disables vertical mouse view, returns vertical auto-aim, and automatically center the camera.
 
-3) Classic renderer: `Num5` - on, `Num6` - off
+3) Classic renderer: `Num5` - on, `Num6` - off  
 Enables/disables binding of the renderer to the game palette
 It is strongly recommended to leave it on for all near-vanilla projects (up to MBF21 and ZDoom), as it is a key point in authenticity and closeness of the picture to the original Doom.
 It is recommended to disable only for special projects for GZDoom, which actively use colored dynamic lighting, colored fog or colored sector lighting.
 
-4) Pixelization: `Num2` - on, `Num3` - off
+4) Pixelization: `Num2` - on, `Num3` - off  
 Enables pixelization of the picture if you want to get some Crispy effect.
 
-5) Dynamic Lighting: `Num+` - on, `Num-` - off
+5) Dynamic Lighting: `Num+` - on, `Num-` - off  
 Enables/disables dynamic lighting of objects.
 If you don't care about this feature, it is recommended to turn it off when playing with classic renderer.
 
-6) Pistol-Start: `Num0` - on, `Num.` - off
+6) Pistol-Start: `Num0` - on, `Num.` - off  
 Enables/disables pistol start for each map.
 It is recommended to turn on for all near-vanilla projects, as the balance of maps is usually sharpened for this.
 It is not recommended to enable it together with mods, because not all mods are designed for this and can simply break (some mods have their own special setting for pistol-start, if available, use it).
