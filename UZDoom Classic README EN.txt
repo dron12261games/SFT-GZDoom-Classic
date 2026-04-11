@@ -1,10 +1,10 @@
 ------ Info ------
 
-GZDoom Classic v4 - build by DRON12261
+UZDoom Classic v5 - build by DRON12261
 
-The build is based on GZDoom 4.11.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured hardware (Hardware) renderer.
+The build is based on UZDoom 4.14.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured hardware (Hardware) renderer.
 
-Also the build is a portable version, ie not tied to any system folders, everything remains within the dirrectory itself GZDoom Classic, and that means it will not conflict with other builds.
+Also the build is a portable version, ie not tied to any system folders, everything remains within the dirrectory itself UZDoom Classic, and that means it will not conflict with other builds.
 
 The build is pre-configured for the following projects (the correct settings are automatically applied):
 - Doom
@@ -37,7 +37,7 @@ When off, disables vertical mouse view, returns vertical auto-aim, and automatic
 3) Classic renderer: Num5 - on, Num6 - off
 Enables/disables binding of the renderer to the game palette
 It is strongly recommended to leave it on for all near-vanilla projects (up to MBF21 and ZDoom), as it is a key point in authenticity and closeness of the picture to the original Doom.
-It is recommended to disable only for special projects for GZDoom, which actively use colored dynamic lighting, colored fog or colored sector lighting.
+It is recommended to disable only for special projects for UZDoom, which actively use colored dynamic lighting, colored fog or colored sector lighting.
 
 4) Pixelization: Num2 - on, Num3 - off
 Enables pixelization of the picture if you want to get some Crispy effect.
@@ -66,7 +66,7 @@ C - Fly/Swim Down
 
 ---- Updating ----
 
-When upgrading to a newer version of GZDoom, you just need to replace the files of the new build of GZDoom into the folder with GZDoom Classic. 
+When upgrading to a newer version of UZDoom, you just need to replace the files of the new build of UZDoom into the folder with UZDoom Classic. 
 All settings, etc. will remain safe and intact.
 
 ------------------
@@ -78,6 +78,6 @@ RLNDGM.sf2 soundfont is embedded into the build, which will give the original au
 
 Additionally, the preconfigured automap coloring for Doom significantly increases its "readability" for colored doors, impassable lines, teleport triggers, etc.
 
-The script for pistolstart was implemented by JP LeBreton. Page with original mod: https://jp.itch.io/doom-pistol-start
+The build also includes the LevelInfo mod by Tekkish, which displays level statistics on the screen and more (can be disabled in the settings): https://github.com/Tekkish/LevelInfo
 
 ------------------
