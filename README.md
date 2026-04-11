@@ -1,13 +1,13 @@
-# GZDoom Classic [Correctly Preconfigured Build]
+# UZDoom Classic [Correctly Preconfigured Build]
 
 # STATUS: ✅RELEASED
-GZDoom Classic - correctly preconfigured build by DRON12261
+UZDoom Classic - correctly preconfigured build by DRON12261
 
-### ⚠️WARNING!⚠️ It's only a build, not a fork. The original GZDoom repository can be found [here](https://github.com/ZDoom/gzdoom).
+### ⚠️WARNING!⚠️ It's only a build, not a fork. The original UZDoom repository can be found [here](https://github.com/UZDoom/UZDoom).
 
-The build is based on GZDoom 4.11.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured Hardware renderer.
+The build is based on UZDoom 4.14.3 and is correctly tuned in the sense that it is as close as possible in aesthetics to the original doom and other games. Moreover, it is correctly configured Hardware renderer.
 
-Also the build is a portable version, ie not tied to any system folders, everything remains within the dirrectory itself GZDoom Classic, and that means it will not conflict with other builds.
+Also the build is a portable version, ie not tied to any system folders, everything remains within the dirrectory itself UZDoom Classic, and that means it will not conflict with other builds.
 
 The build is pre-configured for the following projects (the correct settings are automatically applied):
 - Doom
@@ -21,7 +21,7 @@ The build is pre-configured for the following projects (the correct settings are
 - Action Doom 2
 - HACX
 
-### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zipp)
+### Download - [Latest Release - v5](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v5/UZDoom.Classic.v5.zip)
 
 # Hotkeys
 The build includes several switch hotkeys to instantly re-configure the port for specific preferences, projects, and situations.
@@ -43,7 +43,7 @@ It is recommended to disable only for special projects for GZDoom, which activel
 4) Pixelization: `Num2` - on, `Num3` - off  
 Enables pixelization of the picture if you want to get some Crispy effect.
 
-5) Dynamic Lighting: `Num+` - on, `Num-` - off  
+5) Dynamic Lighting: `Num4` - on, `Num7` - off  
 Enables/disables dynamic lighting of objects.
 If you don't care about this feature, it is recommended to turn it off when playing with classic renderer.
 
@@ -63,7 +63,7 @@ The following hotkeys are additionally implemented:
 - `C` - Fly/Swim Down
 
 # Updating
-When upgrading to a newer version of GZDoom, you just need to replace the files of the new build of GZDoom into the folder with GZDoom Classic. 
+When upgrading to a newer version of UZDoom, you just need to replace the files of the new build of UZDoom into the folder with UZDoom Classic. 
 All settings, etc. will remain safe and intact.
 
 # Extra
@@ -71,9 +71,9 @@ RLNDGM.sf2 soundfont is embedded into the build, which will give the original au
 
 Additionally, the preconfigured automap coloring for Doom significantly increases its "readability" for colored doors, impassable lines, teleport triggers, etc.
 
-The script for pistolstart was implemented by JP LeBreton. Page with original mod: https://jp.itch.io/doom-pistol-start
+The build also includes the LevelInfo mod by Tekkish, which displays level statistics on the screen and more (can be disabled in the settings): https://github.com/Tekkish/LevelInfo
 
-### Download - [Latest Release - v4](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v4/GZDoom.Classic.v4.zip)
+### Download - [Latest Release - v5](https://github.com/dron12261games/SFT-GZDoom-Classic/releases/download/v5/UZDoom.Classic.v5.zip)
 
 # Screenshots:
 ![Screen1](./screens/1.png)
