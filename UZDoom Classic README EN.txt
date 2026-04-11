@@ -42,7 +42,7 @@ It is recommended to disable only for special projects for UZDoom, which activel
 4) Pixelization: Num2 - on, Num3 - off
 Enables pixelization of the picture if you want to get some Crispy effect.
 
-5) Dynamic Lighting: Num+ - on, Num- - off
+5) Dynamic Lighting: Num4 - on, Num7 - off
 Enables/disables dynamic lighting of objects.
 If you don't care about this feature, it is recommended to turn it off when playing with classic renderer.
 
